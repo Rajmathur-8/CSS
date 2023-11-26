@@ -1,0 +1,35 @@
+#img1{
+    float: right;
+    height: 100px;
+}
+#img2{
+    float:right;
+    height: 250px;
+    clear: right;
+}
+.box{
+    border: 1px solid black;
+}
+.item{
+    width: 200px;
+    height: 200px;
+    margin: 2px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    float: left;
+}
+#item1{
+    float: right;
+}
+#item2{
+    float: right;
+}
+#item3{
+    float: right;
+}
+.container{
+    border: 1px solid black;
+    width:500px;
+    height: 500px;
+    overflow: scroll;
+}

@@ -1,0 +1,30 @@
+.container{
+    background-color: beige;
+    height: 650px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color: aquamarine;
+    width: 330px;
+    height: 330px;
+    border: 2px solid brown;
+    margin: 5px;
+    padding: 5px;
+    /* box-shadow: 10px 15px blueviolet; */
+    /* box-shadow:10px 15px 50px black ; */
+    /* box-shadow:10px 15px 20px 5px black ; */
+    /* box-shadow: inset 10px 15px black ; */
+    /* box-shadow: 10px 15px red 15px 20px green; */
+    
+
+}
+#head1{
+    /* text-shadow: 2px 2px 2px green; */
+    text
+
+
+
+}

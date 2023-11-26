@@ -1,0 +1,30 @@
+img{
+    margin-left: 10px;
+}
+div{
+    border: 1px solid black;
+}
+.img2{
+   position: relative;
+   top: 200px ;
+}
+.container{
+    position: relative;
+    height: 4000px;
+    
+}
+.img3{
+position: absolute;
+top: 300px;
+}
+.img4{
+    position: fixed;
+}
+.img1{
+    position: sticky;
+    top: 100px;
+}
+.box{
+    background-color:aquamarine ;
+    height: 5000px;
+}

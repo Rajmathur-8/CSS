@@ -1,0 +1,33 @@
+h1{
+    background-color: aquamarine;
+    border: solid black 5px;
+    border-radius: 5px;
+    width: 340px;
+    height: 50px;
+}
+span{
+    background-color: aquamarine;
+    border: solid black 5px;
+    border-radius: 5px;
+    padding: 50px;
+    margin: 50px; 
+
+}
+.p1{
+    background-color: blueviolet;
+    border: solid black 5px;
+    border-radius: 5px;
+    width: 340px;
+}
+.p2{
+    background-color: burlywood;
+    border: solid black 5px;
+    border-radius: 5px;
+    width: 340px;
+}
+.p3{
+    background-color: teal;
+    border: solid black 5px;
+    border-radius: 5px;
+    width: 340px;
+}
